@@ -1,5 +1,4 @@
-# symfonycodesnippletsforvscode
-Symfony Code Snipplets for VSCode
+# Symfony Code Snipplets for VSCode
 
 #### twig.json
 
